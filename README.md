@@ -1,2 +1,2 @@
 # We_meet
-Its an online platform through which one can host the meeting and even talk to strangers. 
+Its an online platform which provides dual functionalities, one to host a meeting and even talk to strangers. 
